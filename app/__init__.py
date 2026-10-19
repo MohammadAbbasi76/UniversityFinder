@@ -1,0 +1,1 @@
+"""University discovery application package."""
